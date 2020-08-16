@@ -48,43 +48,13 @@
   </url>
   
   <url>
-    <loc>https://allie-burns.github.io/publication-type/3/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://allie-burns.github.io/author/allie-burns/</loc>
     <lastmod>2019-09-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://allie-burns.github.io/publication/preprint/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://allie-burns.github.io/authors/</loc>
     <lastmod>2019-09-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://allie-burns.github.io/publication_types/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://allie-burns.github.io/publication/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://allie-burns.github.io/tag/source-themes/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://allie-burns.github.io/tags/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -100,6 +70,51 @@
   <url>
     <loc>https://allie-burns.github.io/slides/example/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://allie-burns.github.io/publication-type/2/</loc>
+    <lastmod>2018-08-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://allie-burns.github.io/publication/cfos-activation-map/</loc>
+    <lastmod>2018-08-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://allie-burns.github.io/author/allison-m.-burns/</loc>
+    <lastmod>2018-08-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://allie-burns.github.io/author/bianca-a.-silva/</loc>
+    <lastmod>2018-08-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://allie-burns.github.io/author/johannes-graeff/</loc>
+    <lastmod>2018-08-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://allie-burns.github.io/publication_types/</loc>
+    <lastmod>2018-08-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://allie-burns.github.io/publication/</loc>
+    <lastmod>2018-08-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://allie-burns.github.io/tag/source-themes/</loc>
+    <lastmod>2018-08-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://allie-burns.github.io/tags/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -163,11 +178,6 @@
   </url>
   
   <url>
-    <loc>https://allie-burns.github.io/publication-type/2/</loc>
-    <lastmod>2015-12-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://allie-burns.github.io/author/chi-kangtseng/</loc>
     <lastmod>2015-12-15T00:00:00+00:00</lastmod>
   </url>
@@ -178,7 +188,7 @@
   </url>
   
   <url>
-    <loc>https://allie-burns.github.io/publication/journal-article/</loc>
+    <loc>https://allie-burns.github.io/publication/human-telomerase-quality-control/</loc>
     <lastmod>2015-12-15T00:00:00+00:00</lastmod>
   </url>
   
@@ -220,21 +230,6 @@
   <url>
     <loc>https://allie-burns.github.io/tag/regression/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://allie-burns.github.io/publication-type/1/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://allie-burns.github.io/publication/conference-paper/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://allie-burns.github.io/author/robert-ford/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
   </url>
   
 </urlset>

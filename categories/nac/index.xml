@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>NAc on Allie Burns</title>
+    <link>https://allie-burns.github.io/categories/nac/</link>
+    <description>Recent content in NAc on Allie Burns</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 20 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://allie-burns.github.io/categories/nac/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A thalamo-amygdalar circuit underlying the extinction of remote fear memories</title>
+      <link>https://allie-burns.github.io/publications/2021-thalamo-amy-circuit/</link>
+      <pubDate>Thu, 20 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://allie-burns.github.io/publications/2021-thalamo-amy-circuit/</guid>
+      <description>Fear and trauma generate some of the longest-lived memories. Despite the corresponding need to understand how such memories can be attenuated, the underlying brain circuits remain unknown. Here, combining viral tracing, neuronal activity mapping, fiber photometry, chemogenetic and closed-loop optogenetic manipulations in mice, we show that the extinction of remote (30-day-old) fear memories depends on thalamic nucleus reuniens (NRe) inputs to the basolateral amygdala (BLA). We found that remote, but not recent (1-day-old), fear extinction activates NRe-to-BLA inputs, which become potentiated upon fear reduction.</description>
+    </item>
+    
+  </channel>
+</rss>

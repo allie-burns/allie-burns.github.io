@@ -1,16 +1,146 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories | Allie Burns</title>
+    <title>Categories on Allie Burns</title>
     <link>https://allie-burns.github.io/categories/</link>
-      <atom:link href="https://allie-burns.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
-    <description>Categories</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>https://allie-burns.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
-      <title>Categories</title>
-      <link>https://allie-burns.github.io/categories/</link>
-    </image>
+    <description>Recent content in Categories on Allie Burns</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 22 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://allie-burns.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>epigenetic priming</title>
+      <link>https://allie-burns.github.io/categories/epigenetic-priming/</link>
+      <pubDate>Sun, 22 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://allie-burns.github.io/categories/epigenetic-priming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>fear learning</title>
+      <link>https://allie-burns.github.io/categories/fear-learning/</link>
+      <pubDate>Sun, 22 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://allie-burns.github.io/categories/fear-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HDACi</title>
+      <link>https://allie-burns.github.io/categories/hdaci/</link>
+      <pubDate>Sun, 22 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://allie-burns.github.io/categories/hdaci/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NGS</title>
+      <link>https://allie-burns.github.io/categories/ngs/</link>
+      <pubDate>Sun, 22 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://allie-burns.github.io/categories/ngs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>synaptic plasticity</title>
+      <link>https://allie-burns.github.io/categories/synaptic-plasticity/</link>
+      <pubDate>Sun, 22 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://allie-burns.github.io/categories/synaptic-plasticity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>extinction</title>
+      <link>https://allie-burns.github.io/categories/extinction/</link>
+      <pubDate>Thu, 20 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://allie-burns.github.io/categories/extinction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NAc</title>
+      <link>https://allie-burns.github.io/categories/nac/</link>
+      <pubDate>Thu, 20 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://allie-burns.github.io/categories/nac/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>remote fear memory</title>
+      <link>https://allie-burns.github.io/categories/remote-fear-memory/</link>
+      <pubDate>Thu, 20 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://allie-burns.github.io/categories/remote-fear-memory/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>recent memory</title>
+      <link>https://allie-burns.github.io/categories/recent-memory/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://allie-burns.github.io/categories/recent-memory/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Theme Features</title>
+      <link>https://allie-burns.github.io/categories/theme-features/</link>
+      <pubDate>Thu, 28 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://allie-burns.github.io/categories/theme-features/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>evergreen</title>
+      <link>https://allie-burns.github.io/categories/evergreen/</link>
+      <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://allie-burns.github.io/categories/evergreen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R</title>
+      <link>https://allie-burns.github.io/categories/r/</link>
+      <pubDate>Sun, 03 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://allie-burns.github.io/categories/r/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>package</title>
+      <link>https://allie-burns.github.io/categories/package/</link>
+      <pubDate>Wed, 03 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://allie-burns.github.io/categories/package/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cFos</title>
+      <link>https://allie-burns.github.io/categories/cfos/</link>
+      <pubDate>Fri, 17 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://allie-burns.github.io/categories/cfos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hTR</title>
+      <link>https://allie-burns.github.io/categories/htr/</link>
+      <pubDate>Tue, 15 Dec 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://allie-burns.github.io/categories/htr/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

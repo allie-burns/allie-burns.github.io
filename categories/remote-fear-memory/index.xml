@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>remote fear memory on Allie Burns</title>
+    <link>https://allie-burns.github.io/categories/remote-fear-memory/</link>
+    <description>Recent content in remote fear memory on Allie Burns</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 20 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://allie-burns.github.io/categories/remote-fear-memory/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A thalamo-amygdalar circuit underlying the extinction of remote fear memories</title>
+      <link>https://allie-burns.github.io/publications/2021-thalamo-amy-circuit/</link>
+      <pubDate>Thu, 20 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://allie-burns.github.io/publications/2021-thalamo-amy-circuit/</guid>
+      <description>Fear and trauma generate some of the longest-lived memories. Despite the corresponding need to understand how such memories can be attenuated, the underlying brain circuits remain unknown. Here, combining viral tracing, neuronal activity mapping, fiber photometry, chemogenetic and closed-loop optogenetic manipulations in mice, we show that the extinction of remote (30-day-old) fear memories depends on thalamic nucleus reuniens (NRe) inputs to the basolateral amygdala (BLA). We found that remote, but not recent (1-day-old), fear extinction activates NRe-to-BLA inputs, which become potentiated upon fear reduction.</description>
+    </item>
+    
+    <item>
+      <title>A cFos activation map of remote fear memory attenuation</title>
+      <link>https://allie-burns.github.io/publications/2019_cfos-activation-map/</link>
+      <pubDate>Fri, 17 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://allie-burns.github.io/publications/2019_cfos-activation-map/</guid>
+      <description>The experience of strong traumata leads to the formation of enduring fear memories that may degenerate into post-traumatic stress disorder. One of the most successful treatments for this condition consists of extinction training during which the repeated exposure to trauma-inducing stimuli in a safe environment results in an attenuation of the fearful component of trauma-related memories. While numerous studies have investigated the neural substrates of recent (e.g., 1-day-old) fear memory attenuation, much less is known about the neural networks mediating the attenuation of remote (e.</description>
+    </item>
+    
+  </channel>
+</rss>

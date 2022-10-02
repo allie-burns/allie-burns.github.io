@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Featured Publications on Allie Burns</title>
+    <link>https://allie-burns.github.io/publications/</link>
+    <description>Recent content in Featured Publications on Allie Burns</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 22 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://allie-burns.github.io/publications/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The HDAC inhibitor CI-994 acts as a molecular memory aid by facilitating synaptic and intracellular communication after learning</title>
+      <link>https://allie-burns.github.io/publications/2022_hdaci-memory-aide/</link>
+      <pubDate>Sun, 22 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://allie-burns.github.io/publications/2022_hdaci-memory-aide/</guid>
+      <description>Long-term memory formation relies on synaptic plasticity, neuronal activity-dependent gene transcription, and epigenetic modifications. Multiple studies have shown that HDAC inhibitor (HDACi) treatments can enhance individual aspects of these processes and thereby act as putative cognitive enhancers. However, their mode of action is not fully understood. In particular, it is unclear how systemic application of HDACis, which are devoid of substrate specificity, can target pathways that promote memory formation. In this study, we explore the electrophysiological, transcriptional, and epigenetic responses that are induced by CI-994, a class I HDACi, combined with contextual fear conditioning (CFC) in mice.</description>
+    </item>
+    
+    <item>
+      <title>A thalamo-amygdalar circuit underlying the extinction of remote fear memories</title>
+      <link>https://allie-burns.github.io/publications/2021-thalamo-amy-circuit/</link>
+      <pubDate>Thu, 20 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://allie-burns.github.io/publications/2021-thalamo-amy-circuit/</guid>
+      <description>Fear and trauma generate some of the longest-lived memories. Despite the corresponding need to understand how such memories can be attenuated, the underlying brain circuits remain unknown. Here, combining viral tracing, neuronal activity mapping, fiber photometry, chemogenetic and closed-loop optogenetic manipulations in mice, we show that the extinction of remote (30-day-old) fear memories depends on thalamic nucleus reuniens (NRe) inputs to the basolateral amygdala (BLA). We found that remote, but not recent (1-day-old), fear extinction activates NRe-to-BLA inputs, which become potentiated upon fear reduction.</description>
+    </item>
+    
+    <item>
+      <title>Cognitive epigenetic priming: leveraging histone acetylation for memory amelioration</title>
+      <link>https://allie-burns.github.io/publications/2021_cog-epi-priming-review/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://allie-burns.github.io/publications/2021_cog-epi-priming-review/</guid>
+      <description>Multiple studies have found that increasing histone acetylation by means of histone deacetylase inhibitor (HDACi) treatment can ameliorate memory and rescue cognitive impairments, but their mode of action is not fully understood. In particular, it is unclear how HDACis, applied systemically and devoid of genomic target selectivity, would specifically improve memory-related molecular processes. One theory for such specificity is called cognitive epigenetic priming (CEP), according to which HDACis promote memory by facilitating the expression of neuroplasticity-related genes that have been stimulated by learning itself.</description>
+    </item>
+    
+    <item>
+      <title>A cFos activation map of remote fear memory attenuation</title>
+      <link>https://allie-burns.github.io/publications/2019_cfos-activation-map/</link>
+      <pubDate>Fri, 17 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://allie-burns.github.io/publications/2019_cfos-activation-map/</guid>
+      <description>The experience of strong traumata leads to the formation of enduring fear memories that may degenerate into post-traumatic stress disorder. One of the most successful treatments for this condition consists of extinction training during which the repeated exposure to trauma-inducing stimuli in a safe environment results in an attenuation of the fearful component of trauma-related memories. While numerous studies have investigated the neural substrates of recent (e.g., 1-day-old) fear memory attenuation, much less is known about the neural networks mediating the attenuation of remote (e.</description>
+    </item>
+    
+    <item>
+      <title>Human Telomerase RNA Processing and Quality Control</title>
+      <link>https://allie-burns.github.io/publications/2015_human-telomerase-quality-control/</link>
+      <pubDate>Tue, 15 Dec 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://allie-burns.github.io/publications/2015_human-telomerase-quality-control/</guid>
+      <description>The non-coding RNA subunit of telomerase provides the template for telomerase activity. In diverse fungi, 3′ end processing of telomerase RNA involves a single cleavage by the spliceosome. Here, we examine how human telomerase RNA (hTR) primary transcripts are processed into the mature form of precisely 451 nt. We find that the splicing inhibitor isoginkgetin mimics the effects of RNA exosome inhibition and causes accumulation of long hTR transcripts. Depletion of exosome components and accessory factors reveals functions for the cap binding complex (CBC) and the nuclear exosome targeting (NEXT) complex in hTR turnover.</description>
+    </item>
+    
+  </channel>
+</rss>

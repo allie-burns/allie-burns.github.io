@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>HDACi on Allie Burns</title>
+    <link>https://allie-burns.github.io/categories/hdaci/</link>
+    <description>Recent content in HDACi on Allie Burns</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 22 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://allie-burns.github.io/categories/hdaci/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The HDAC inhibitor CI-994 acts as a molecular memory aid by facilitating synaptic and intracellular communication after learning</title>
+      <link>https://allie-burns.github.io/publications/2022_hdaci-memory-aide/</link>
+      <pubDate>Sun, 22 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://allie-burns.github.io/publications/2022_hdaci-memory-aide/</guid>
+      <description>Long-term memory formation relies on synaptic plasticity, neuronal activity-dependent gene transcription, and epigenetic modifications. Multiple studies have shown that HDAC inhibitor (HDACi) treatments can enhance individual aspects of these processes and thereby act as putative cognitive enhancers. However, their mode of action is not fully understood. In particular, it is unclear how systemic application of HDACis, which are devoid of substrate specificity, can target pathways that promote memory formation. In this study, we explore the electrophysiological, transcriptional, and epigenetic responses that are induced by CI-994, a class I HDACi, combined with contextual fear conditioning (CFC) in mice.</description>
+    </item>
+    
+    <item>
+      <title>Cognitive epigenetic priming: leveraging histone acetylation for memory amelioration</title>
+      <link>https://allie-burns.github.io/publications/2021_cog-epi-priming-review/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://allie-burns.github.io/publications/2021_cog-epi-priming-review/</guid>
+      <description>Multiple studies have found that increasing histone acetylation by means of histone deacetylase inhibitor (HDACi) treatment can ameliorate memory and rescue cognitive impairments, but their mode of action is not fully understood. In particular, it is unclear how HDACis, applied systemically and devoid of genomic target selectivity, would specifically improve memory-related molecular processes. One theory for such specificity is called cognitive epigenetic priming (CEP), according to which HDACis promote memory by facilitating the expression of neuroplasticity-related genes that have been stimulated by learning itself.</description>
+    </item>
+    
+  </channel>
+</rss>

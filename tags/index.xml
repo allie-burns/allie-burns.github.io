@@ -1,16 +1,29 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags | Allie Burns</title>
+    <title>Tags on Allie Burns</title>
     <link>https://allie-burns.github.io/tags/</link>
-      <atom:link href="https://allie-burns.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
-    <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jul 2021 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>https://allie-burns.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
-      <title>Tags</title>
-      <link>https://allie-burns.github.io/tags/</link>
-    </image>
+    <description>Recent content in Tags on Allie Burns</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 27 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://allie-burns.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>style</title>
+      <link>https://allie-burns.github.io/tags/style/</link>
+      <pubDate>Wed, 27 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://allie-burns.github.io/tags/style/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hugo-site</title>
+      <link>https://allie-burns.github.io/tags/hugo-site/</link>
+      <pubDate>Sun, 03 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://allie-burns.github.io/tags/hugo-site/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
